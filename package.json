@@ -1,14 +1,14 @@
 {
-  "name": "surveyjs-nodejs",
-  "version": "0.1.0",
-  "description": "Sample NodeJS backend for SurveyJS: Survey Library and Survey Creator",
+  "name": "survey-mang-1",
+  "version": "0.1.1",
+  "description": "Survey Management System - NodeJS + Express + PostgreSQL",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/surveyjs/surveyjs-nodejs.git"
+    "url": "https://github.com/greenido/survey-mang-1.git"
   },
   "keywords": [
     "survey",
@@ -23,9 +23,9 @@
   "author": "SurveyJS",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/surveyjs/surveyjs-nodejs/issues"
+    "url": "https://github.com/greenido/survey-mang-1/issues"
   },
-  "homepage": "https://github.com/surveyjs/surveyjs-nodejs#readme",
+  "homepage": "https://github.com/greenido/survey-mang-1#readme",
   "dependencies": {
     "body-parser": "^1.18.2",
     "express": "^4.16.2",

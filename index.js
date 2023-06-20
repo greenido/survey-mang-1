@@ -99,5 +99,5 @@ app.get(["/", "/about", "/run/*", "/edit/*", "/results/*"], function (req, res, 
 app.use(express.static(__dirname + "/public"));
 
 app.listen(process.env.PORT || 3000, function () {
-  console.log("Listening!");
+  console.log("Listening on port 3000...");
 });
